@@ -1,1 +1,4 @@
-{"url":"https://app-alert.mooo.com/"}
+{
+  "url":"https://app-alert.mooo.com/",
+  "message": ["title1", "title2"]
+}
