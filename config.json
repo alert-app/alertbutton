@@ -1,4 +1,4 @@
 {
   "url":"https://app-alert.mooo.com/",
-  "message": ["Enter your name:", "Enter your message:"]
+  "message": ["Your name:", "Your message:"]
 }
