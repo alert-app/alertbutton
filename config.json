@@ -1,4 +1,4 @@
 {
-  "url":"http://16.162.37.63:5000/alert",
+  "url":"http://16.162.37.63:5000/",
   "message": ["Your name test", "Your message test"]
 }
